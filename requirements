@@ -1,0 +1,3 @@
+python-dotenv
+supabase
+requestspython -c "import dotenv, supabase, requests; print('Tudo instalado!')"
